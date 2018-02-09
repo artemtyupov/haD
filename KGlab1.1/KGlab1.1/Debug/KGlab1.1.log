@@ -1,0 +1,14 @@
+﻿Построение начато 09.02.2018 8:01:44.
+     1>Проект "C:\Users\Артем\Documents\Visual Studio 2012\Projects\KGlab1.1\KGlab1.1\KGlab1.1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp
+         main.cpp
+     1>c:\users\артем\documents\visual studio 2012\projects\kglab1.1\kglab1.1\MyForm.h(203): error C3867: System::String::ToCharArray: в вызове функции отсутствует список аргументов; используйте "&System::String::ToCharArray" для создания указателя на член
+     1>c:\users\артем\documents\visual studio 2012\projects\kglab1.1\kglab1.1\MyForm.h(204): error C2664: void System::Windows::Forms::Control::Text::set(System::String ^): невозможно преобразовать параметр 1 из "System::String" в "System::String ^"
+                 Оператор определенного пользователем преобразования недоступен, или
+                 Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+     1>Построение проекта "C:\Users\Артем\Documents\Visual Studio 2012\Projects\KGlab1.1\KGlab1.1\KGlab1.1.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:00.48
