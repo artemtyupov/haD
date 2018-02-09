@@ -1,0 +1,4 @@
+useCourseSemester;false;
+useCfadsfer;false;
+useEvenWeeks;true;
+useYearOfStudy;false;

@@ -1,0 +1,156 @@
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Form1.resources
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\mysql-logs\test\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.FormPrepods.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Form1.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.FormPrepods.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Form1.resources
+C:\Users\kornout\Desktop\prepods\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.FormSpecs.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Form1.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\Administrator\Desktop\PrepodsTest\PrepodsTest_27_11\PrepodsTest\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\dotnet\20-12-2015\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\dotnet\20-12-2015\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\dotnet\20-12-2015\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.MainForm.resources
+C:\dotnet\20-12-2015\PrepodsTest\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\artem\Desktop\project\27-12-2015\PrepodsTest\obj\Debug\PrepodsTest.test.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.test.resources
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\artem\Desktop\project\10-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ReplaceForm.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ReplaceForm.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.test.resources
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\artem\Desktop\project\17-01-2016\PrepodsTest\obj\Debug\PrepodsTest.OtchetView.resources
+H:\Prepods\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.exe
+H:\Prepods\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\bin\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\bin\Debug\PrepodsTest.pdb
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.OtchetView.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ReplaceForm.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.test.resources
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.exe
+C:\Users\Administrator\Desktop\PrepodsTest\24-01-2016\PrepodsTest\obj\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\bin\Debug\PrepodsTest.exe
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\bin\Debug\PrepodsTest.pdb
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\bin\Debug\MySql.Data.dll
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.OtchetView.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.ReplaceForm.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.test.resources
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\artem\Desktop\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SelectPrepodsKlassesForm.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.exe
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.pdb
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.csprojResolveAssemblyReference.cache
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.KlassesFormCrud.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.MainFormPrepods.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.OtchetView.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.ReplaceForm.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.RoomsFormCrud.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.ScheduleCrud.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SelectPrepodsKlassesForm.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SelectSpecsForm.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.Properties.Resources.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.SpecsFormCrud.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.test.resources
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\obj\Debug\PrepodsTest.csproj.GenerateResource.Cache
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\bin\Debug\PrepodsTest.exe.config
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\bin\Debug\PrepodsTest.exe
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\bin\Debug\PrepodsTest.pdb
+C:\Users\kornout\Desktop\prepods\14-02-2016\PrepodsTest 02.02.16\bin\Debug\Renci.SshNet.dll
